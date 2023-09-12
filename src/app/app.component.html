@@ -1,0 +1,20 @@
+<router-outlet></router-outlet>
+
+<nav>
+  <div
+    class="nav-item"
+    [routerLink]="['/health']"
+    [class.active]="activeUrl === '/health'"
+  >
+    <fa-icon class="fas" [icon]="icons.health"></fa-icon>
+    Health
+  </div>
+  <div
+    class="nav-item"
+    [routerLink]="['/gps']"
+    [class.active]="activeUrl === '/gps'"
+  >
+    <fa-icon class="fas" [icon]="icons.gps"></fa-icon>
+    GPS
+  </div>
+</nav>
