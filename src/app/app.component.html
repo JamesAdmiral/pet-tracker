@@ -1,4 +1,7 @@
-<router-outlet></router-outlet>
+
+<main>
+  <router-outlet></router-outlet>
+</main>
 
 <nav>
   <div
@@ -16,5 +19,13 @@
   >
     <fa-icon class="fas" [icon]="icons.gps"></fa-icon>
     GPS
+  </div>
+  <div
+    class="nav-item"
+    [routerLink]="['/my-pet']"
+    [class.active]="activeUrl === '/my-pet'"
+  >
+    <fa-icon class="fas" [icon]="icons.pet"></fa-icon>
+    My Pet
   </div>
 </nav>

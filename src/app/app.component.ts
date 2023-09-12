@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
 import { NavigationEnd, Router } from '@angular/router';
-import { faHeart, faCompass } from '@fortawesome/free-solid-svg-icons';
+import { faHeart, faCompass, faDog } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-root',
@@ -13,6 +13,7 @@ export class AppComponent {
   icons = {
     health: faHeart,
     gps: faCompass,
+    pet: faDog
   };
 
   constructor(private router: Router) {

@@ -6,12 +6,14 @@ import { AppComponent } from './app.component';
 import { HealthComponent } from './health/health.component';
 import { GpsComponent } from './gps/gps.component';
 import { FontAwesomeModule } from '@fortawesome/angular-fontawesome';
+import { MyPetComponent } from './my-pet/my-pet.component';
 
 @NgModule({
   declarations: [
     AppComponent,
     HealthComponent,
-    GpsComponent
+    GpsComponent,
+    MyPetComponent
   ],
   imports: [
     BrowserModule,

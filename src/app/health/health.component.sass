@@ -1,0 +1,65 @@
+section
+    padding: 16px
+    border-radius: 8px
+    background: #fdfdfd
+    box-shadow: 0 2px 6px rgba(0,0,0,0.12)
+
+.heart-rate-container
+    text-align: center
+    font-size: 3rem
+
+    .heart-icon-container
+        display: inline-block
+        animation: heartbeat 1.2s ease-out infinite
+        font-size: 2rem
+        color: #eb3446
+        text-shadow: 0 2px 6px rgba(235, 52, 70, 0.32)
+            
+    .bpm
+        font-size: 0.75rem
+        margin-left: 6px
+
+    .scale-container
+        margin-top: 24px
+
+        .indicator
+            width: 0px
+            border: 6px solid transparent
+            border-top: 8px solid #212121
+            margin-left: 20%
+
+        .scale
+            display: flex
+            align-items: center
+            height: 2px
+
+            .scale-low
+                height: 100%
+                flex: 1
+                background: linear-gradient(90deg, #d62222, #fad348, #28a63f)
+            .scale-average
+                height: 100%
+                flex: 2
+                background: #28a63f
+            .scale-high
+                height: 100%
+                flex: 1
+                background: linear-gradient(270deg, #d62222, #fad348, #28a63f)
+
+        .scale-labels
+            margin-top: 6px
+            display: flex
+            align-items: center
+            justify-content: space-between
+            font-size: 0.8rem
+
+@keyframes heartbeat
+    0%
+        transform: scale(1)
+    60%
+        transform: scale(1.1)
+    80%
+        transform: scale(1)
+    100%
+        transform: scale(1.05)
+    
