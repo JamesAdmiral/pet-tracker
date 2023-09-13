@@ -14,6 +14,15 @@
   </div>
   <div
     class="nav-item"
+    [routerLink]="['/alerts']"
+    [class.active]="activeUrl === '/alerts'"
+  >
+    <fa-icon class="fas" [icon]="icons.alerts"></fa-icon>
+    Alerts
+    <div *ngIf="alertCount > 0" class="alert-count">{{ alertCount }}</div>
+  </div>
+  <div
+    class="nav-item"
     [routerLink]="['/gps']"
     [class.active]="activeUrl === '/gps'"
   >

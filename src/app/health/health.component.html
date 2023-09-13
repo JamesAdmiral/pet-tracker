@@ -1,4 +1,4 @@
-<section>
+<!--<section>
     <div class="heart-rate-container">
         <div class="heart-rate">
             <span class="heart-icon-container">&#10084;</span> 62<span class="bpm">BPM</span>
@@ -17,4 +17,28 @@
             </div>
         </div>
     </div>
+</section>-->
+<section>
+    <div class="heading">
+        Average BPM 
+    </div>
+    <canvas baseChart width="300" height="200"
+    [type]="'line'"
+    [data]="lineChartData"
+    [options]="{ responsive: false }"
+    [legend]="false">
+  </canvas>
+</section>
+
+<section>
+    <div class="heading">
+        Average Feeding Times
+    </div>
+    <div class="clock">
+        <div class="center"></div>
+        <div class="eating-marker-1"></div>
+        <div class="eating-marker-2"></div>
+    </div>
+    <div class="label-1">8:32am - 9:28am</div>
+    <div class="label-2">3:21pm - 4:20pm</div>
 </section>

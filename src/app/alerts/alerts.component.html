@@ -1,0 +1,12 @@
+<section *ngFor="let alert of alerts">
+    <div class="content">
+        {{alert.content}}
+        <a *ngIf="alert.link.url" href="{{alert.link.url}}" target="_blank">
+            {{alert.link.label}}
+            <fa-icon class="fas" [icon]="arrowIcon"></fa-icon>
+        </a>
+    </div>
+    <div class="close">
+        <fa-icon class="fas" [icon]="closeIcon"></fa-icon>
+    </div>
+</section>
