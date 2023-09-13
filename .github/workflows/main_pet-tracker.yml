@@ -50,6 +50,5 @@ jobs:
         uses: azure/webapps-deploy@v2
         with:
           app-name: 'pet-tracker'
-          slot-name: 'Production'
           publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4F1E25D6E2C7410288FF50DFA34FCA75 }}
-          package: .
+          package: ./dist/pet-tracker
