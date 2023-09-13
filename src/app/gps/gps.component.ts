@@ -6,5 +6,8 @@ import { Component } from '@angular/core';
   styleUrls: ['./gps.component.sass']
 })
 export class GpsComponent {
-
+  mapOptions: google.maps.MapOptions = {
+    center: {lat: 40, lng: -20},
+    zoom: 4
+  }
 }

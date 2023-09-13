@@ -22,6 +22,14 @@
   </div>
   <div
     class="nav-item"
+    [routerLink]="['/products']"
+    [class.active]="activeUrl === '/products'"
+  >
+    <fa-icon class="fas" [icon]="icons.products"></fa-icon>
+    Products
+  </div>
+  <div
+    class="nav-item"
     [routerLink]="['/my-pet']"
     [class.active]="activeUrl === '/my-pet'"
   >
