@@ -58,7 +58,7 @@ export class AppService {
   async fetchData() {
     const url = '/data-api/rest/PetHealth';
     this.http.get(url).subscribe(data => {
-      console.log(data)
+      alert(data)
     })
     const response = await fetch(url);
     const data = await response.json();
