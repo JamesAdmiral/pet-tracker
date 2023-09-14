@@ -1,0 +1,2702 @@
+[
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 1,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 1,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 1,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 1,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 1,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 1,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 87,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 91,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 97,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 82,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 96,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 84,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 93,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 88,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 86,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 95,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 92,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 98,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 81,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 99,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 90,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 89,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 83,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 80,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 85,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    },
+    {
+      "PetID": 1,
+      "BPM": 94,
+      "EarAlert": 0,
+      "FoodAlert": 0,
+      "DrinkAlert": 0,
+      "GeoTagAlert": 0,
+      "DateTimeStamp": "2023-09-13T14:10:42Z"
+    }
+   ]

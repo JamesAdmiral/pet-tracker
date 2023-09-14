@@ -19,4 +19,8 @@ export class AlertsComponent {
       this.alerts = val;
     })
   }
+
+  removeAlert(alertType: string): void {
+    this.service.removeAlert(alertType);
+  }
 }

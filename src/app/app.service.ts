@@ -1,5 +1,6 @@
 import { Injectable } from '@angular/core';
 import { BehaviorSubject } from 'rxjs';
+import { HttpClient } from '@angular/common/http';
 
 export interface IAlert {
   type: string;
@@ -10,32 +11,51 @@ export interface IAlert {
   }
 }
 
+interface IResponse {
+  PetID: 1,
+  BPM: number;
+  EarAlert: boolean;
+  FoodAlert: boolean;
+  DrinkAlert: boolean;
+  GeoTagAlert: boolean;
+  DateTimeStamp: string;
+}
+
 @Injectable({
   providedIn: 'root'
 })
 export class AppService {
+  _baseUrl = '/api/getData';
+  _count = 0;
+  _requestInterval = 5000;
+
   alerts: BehaviorSubject<IAlert[]> = new BehaviorSubject<IAlert[]>([]);
   alertCount: BehaviorSubject<number> = new BehaviorSubject(0);
 
-  constructor() { }
+  constructor(private http: HttpClient) {}
 
-  fetchData(): void {
-    setTimeout(() => {
+  parseData(data: IResponse): void {
+    if (data.EarAlert) {
       this.alerts.next(this.updateAlerts(this.alerts.value, this.getEarAlert()))
       this.alertCount.next(this.alerts.value.length);
-    }, 2500);
-    setTimeout(() => {
-      this.alerts.next(this.updateAlerts(this.alerts.value, this.getGeoTagAlert()))
-      this.alertCount.next(this.alerts.value.length);
-    }, 5000);
-    setTimeout(() => {
+    }
+    if (data.FoodAlert) {
       this.alerts.next(this.updateAlerts(this.alerts.value, this.getFoodAlert()))
       this.alertCount.next(this.alerts.value.length);
-    }, 10000);
-    setTimeout(() => {
+    }
+    if (data.GeoTagAlert) {
       this.alerts.next(this.updateAlerts(this.alerts.value, this.getGeoTagAlert()))
       this.alertCount.next(this.alerts.value.length);
-    }, 15000);
+    }
+  }
+
+  fetchData(): void {
+    setInterval(() => {
+      this.http.get(`${this._baseUrl}?record=${this._count}`).subscribe((data) => {
+        this._count++;
+        this.parseData(data as IResponse);
+      });
+    }, this._requestInterval);
   }
 
   private updateAlerts(existingAlerts: IAlert[], newAlert: IAlert): IAlert[] {
@@ -73,5 +93,10 @@ export class AppService {
         label: ''
       }
     }
+  }
+
+  public removeAlert(alertType: string): void {
+    this.alerts.next(this.alerts.value.filter(a => a.type !== alertType))
+    this.alertCount.next(this.alerts.value.length);
   }
 }

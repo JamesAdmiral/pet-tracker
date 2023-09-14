@@ -11,6 +11,7 @@ import { ProductsComponent } from './products/products.component';
 import { GoogleMapsModule } from '@angular/google-maps';
 import { NgChartsModule } from 'ng2-charts';
 import { AlertsComponent } from './alerts/alerts.component';
+import { HttpClientModule } from '@angular/common/http';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { AlertsComponent } from './alerts/alerts.component';
     AppRoutingModule,
     FontAwesomeModule,
     GoogleMapsModule,
-    NgChartsModule
+    NgChartsModule,
+    HttpClientModule
   ],
   providers: [],
   bootstrap: [AppComponent]

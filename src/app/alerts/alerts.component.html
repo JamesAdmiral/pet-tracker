@@ -7,6 +7,6 @@
         </a>
     </div>
     <div class="close">
-        <fa-icon class="fas" [icon]="closeIcon"></fa-icon>
+        <fa-icon class="fas" [icon]="closeIcon" (click)="removeAlert(alert.type)"></fa-icon>
     </div>
 </section>
