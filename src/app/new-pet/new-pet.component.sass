@@ -5,6 +5,7 @@ h2
 label
     display: block
     color: #fdfdfd
+    margin-bottom: 16px
 
 input
     color: #fdfdfd
@@ -19,7 +20,8 @@ input[type="text"]
     color: #fdfdfd
     background: transparent
     width: 100%
-    margin-bottom: 32px
+    margin-bottom: 16px
+    font-size: 1rem
 
 input[type="file"]
     display: none
@@ -30,3 +32,42 @@ input[type="file"]
     border-radius: 8px
     text-align: center
     padding: 8px 18px
+
+p
+    color: #fdfdfd
+
+p.label
+    font-size: 0.8rem
+    margin-bottom: 8px
+    margin-top: 0
+
+.result
+    display: flex
+    justify-content: space-between
+
+    div
+        flex: 1
+
+.loading
+    color: #fdfdfd
+    text-align: center
+    margin: 32px 0
+
+.continue
+    border: 0
+    background: #fdfdfd
+    border-radius: 8px
+    color: #0c3a84
+    width: 100%
+    font-size: 1.1rem
+    padding: 8px 18px
+    font-family: 'Nunito', sans-serif
+    margin-bottom: 48px
+
+    &.disabled
+        pointer-events: none
+        opacity: 0.4
+
+img
+    max-width: 100%
+    margin-bottom: 16px

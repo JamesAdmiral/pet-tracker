@@ -32,6 +32,6 @@ export class AppComponent implements OnInit {
   }
 
   ngOnInit(): void {
-    this.service.fetchData();
+    //this.service.fetchData();
   }
 }

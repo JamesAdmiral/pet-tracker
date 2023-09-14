@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { BehaviorSubject, Subject } from 'rxjs';
+import { BehaviorSubject, Observable, Subject } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 
 export interface IAlert {
@@ -125,5 +125,10 @@ export class AppService {
     }
 
     return report;
+  }
+
+  public getPetData(file: File): Observable<any> {
+    return this.http.post('https://sebdogid-prediction.cognitiveservices.azure.com/customvision/v3.0/Prediction/b9a1dff4-35ce-4ce5-b198-5e49d12fbb79/classify/iterations/dog-id/image',
+    file, { headers: { 'Prediction-Key': 'd539335db2354010ae9a7aee5ad7e7ea', 'Content-Type': 'application/octet-stream' }})
   }
 }

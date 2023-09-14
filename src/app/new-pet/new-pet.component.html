@@ -1,7 +1,27 @@
 <h2>Add your pet's name and photograph below.</h2>
 
+
 <label for="name">Name</label>
 <input id="name" type="text">
 
-<input id="photo" type="file" accept="image/*">
-<label for="photo" class="upload-photo">Upload/take a photo</label>
+<ng-container *ngIf="!breed">
+    <input id="photo" (change)="fileUploaded($event)" type="file" accept="image/*">
+    <label *ngIf="!loading" for="photo" class="upload-photo">Upload/take a photo</label>
+</ng-container>
+<ng-container *ngIf="loading">
+    <p class="loading">Loading...</p>
+</ng-container>
+<ng-container *ngIf="breed">
+    <img src="{{imageSrc}}">
+    <div class="result">
+        <div>
+            <p class="label">Type</p>
+            <p class="info">{{ type }}</p>
+        </div>
+        <div>
+            <p class="label">Breed</p>
+            <p class="info">{{ breed }}</p>
+        </div>
+    </div>
+    <button class="continue" type="button">Continue adding a new pet</button>
+</ng-container>
