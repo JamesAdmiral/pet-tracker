@@ -12,6 +12,7 @@ import { GoogleMapsModule } from '@angular/google-maps';
 import { NgChartsModule } from 'ng2-charts';
 import { AlertsComponent } from './alerts/alerts.component';
 import { HttpClientModule } from '@angular/common/http';
+import { NewPetComponent } from './new-pet/new-pet.component';
 
 @NgModule({
   declarations: [
@@ -20,7 +21,8 @@ import { HttpClientModule } from '@angular/common/http';
     GpsComponent,
     MyPetComponent,
     ProductsComponent,
-    AlertsComponent
+    AlertsComponent,
+    NewPetComponent
   ],
   imports: [
     BrowserModule,
