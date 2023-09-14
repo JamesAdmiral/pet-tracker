@@ -56,13 +56,6 @@ export class AppService {
   }
 
   async fetchData() {
-    const url = '/data-api/rest/PetHealth';
-    this.http.get(url).subscribe(data => {
-      alert(data)
-    })
-    const response = await fetch(url);
-    const data = await response.json();
-    console.log(data)
     setInterval(() => {
       this.http.get(`${this._baseUrl}?record=${this._count}`).subscribe((data) => {
         this._count++;
