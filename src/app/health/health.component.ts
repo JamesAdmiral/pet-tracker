@@ -1,18 +1,22 @@
-import { Component } from '@angular/core';
+import { Component, OnInit, ViewChild } from '@angular/core';
 import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import { ChartConfiguration, ChartOptions } from 'chart.js';
+import { AppService } from '../app.service';
+import { BaseChartDirective } from 'ng2-charts';
 
 @Component({
   selector: 'app-health',
   templateUrl: './health.component.html',
   styleUrls: ['./health.component.sass']
 })
-export class HealthComponent {
+export class HealthComponent implements OnInit {
+  @ViewChild(BaseChartDirective) chart!: BaseChartDirective;
   icons = {
     heart: faHeart
   }
+  liveBpm = false;
 
-  public lineChartData: ChartConfiguration<'line'>['data'] = {
+  public avgBpmChartData: ChartConfiguration<'line'>['data'] = {
     labels: [
       'January',
       'February',
@@ -33,4 +37,38 @@ export class HealthComponent {
       }
     ]
   };
+
+  public liveBpmChartData: ChartConfiguration<'line'>['data'] = {
+    labels: [],
+    datasets: [
+      {
+        data: [],
+        label: 'Series A',
+        fill: true,
+        tension: 0.5,
+        borderColor: '#9ED3FF',
+        backgroundColor: 'rgba(158, 211, 255,0.3)'
+      }
+    ]
+  }
+
+  constructor(private service: AppService){}
+
+  ngOnInit(): void {
+    this.service.bpm.subscribe(val => {
+      this.updateLiveBpmChart(val);
+      this.chart.chart?.update();
+    });
+  }
+
+  updateLiveBpmChart(bpm: number): void {
+    const d = new Date();
+    const time = `${d.getHours()}:${d.getMinutes()}`;
+    this.liveBpmChartData.labels?.push(time);
+    this.liveBpmChartData.datasets[0].data.push(bpm);
+  }
+
+  toggleBpmView(): void {
+    this.liveBpm = !this.liveBpm;
+  }
 }

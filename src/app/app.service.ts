@@ -1,5 +1,5 @@
 import { Injectable } from '@angular/core';
-import { BehaviorSubject } from 'rxjs';
+import { BehaviorSubject, Subject } from 'rxjs';
 import { HttpClient } from '@angular/common/http';
 
 export interface IAlert {
@@ -31,6 +31,7 @@ export class AppService {
 
   alerts: BehaviorSubject<IAlert[]> = new BehaviorSubject<IAlert[]>([]);
   alertCount: BehaviorSubject<number> = new BehaviorSubject(0);
+  bpm: Subject<number> = new Subject();
 
   constructor(private http: HttpClient) {}
 
@@ -46,6 +47,10 @@ export class AppService {
     if (data.GeoTagAlert) {
       this.alerts.next(this.updateAlerts(this.alerts.value, this.getGeoTagAlert()))
       this.alertCount.next(this.alerts.value.length);
+    }
+    if (data.BPM) {
+      console.log(data.BPM)
+      this.bpm.next(data.BPM);
     }
   }
 

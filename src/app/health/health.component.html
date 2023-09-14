@@ -1,33 +1,27 @@
-<!--<section>
-    <div class="heart-rate-container">
-        <div class="heart-rate">
-            <span class="heart-icon-container">&#10084;</span> 62<span class="bpm">BPM</span>
-        </div>
-        <div class="scale-container">
-            <div class="indicator"></div>
-            <div class="scale">
-                <div class="scale-low"></div>
-                <div class="scale-average"></div>
-                <div class="scale-high"></div>
-            </div>
-            <div class="scale-labels">
-                <div>Low</div>
-                <div>Average</div>
-                <div>High</div>
-            </div>
-        </div>
-    </div>
-</section>-->
 <section>
-    <div class="heading">
-        Average BPM 
-    </div>
-    <canvas baseChart width="300" height="200"
-    [type]="'line'"
-    [data]="lineChartData"
-    [options]="{ responsive: false }"
-    [legend]="false">
-  </canvas>
+    <button class="bpm-toggle" type="button" (click)="toggleBpmView()">{{ liveBpm ? 'Average' : 'Live' }}</button>
+    <ng-container *ngIf="!liveBpm">
+        <div class="heading">
+            Average BPM 
+        </div>
+        <canvas baseChart width="300" height="200"
+        [type]="'line'"
+        [data]="avgBpmChartData"
+        [options]="{ responsive: false }"
+        [legend]="false">
+        </canvas>
+    </ng-container>
+    <ng-container *ngIf="liveBpm">
+        <div class="heading">
+            Live BPM 
+        </div>
+        <canvas baseChart width="300" height="200"
+        [type]="'line'"
+        [data]="liveBpmChartData"
+        [options]="{ responsive: false }"
+        [legend]="false">
+        </canvas>
+    </ng-container>
 </section>
 
 <section>
