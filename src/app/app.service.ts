@@ -28,6 +28,7 @@ export class AppService {
   _baseUrl = '/api/getData';
   _count = 0;
   _requestInterval = 5000;
+  _data: IResponse[] = [];
 
   alerts: BehaviorSubject<IAlert[]> = new BehaviorSubject<IAlert[]>([]);
   alertCount: BehaviorSubject<number> = new BehaviorSubject(0);
@@ -49,9 +50,9 @@ export class AppService {
       this.alertCount.next(this.alerts.value.length);
     }
     if (data.BPM) {
-      console.log(data.BPM)
       this.bpm.next(data.BPM);
     }
+    this._data.push(data);
   }
 
   fetchData(): void {
@@ -103,5 +104,19 @@ export class AppService {
   public removeAlert(alertType: string): void {
     this.alerts.next(this.alerts.value.filter(a => a.type !== alertType))
     this.alertCount.next(this.alerts.value.length);
+  }
+
+  public getReportData(): string[] {
+    const report = [];
+
+    if (this._data.some(d => d.EarAlert)) {
+      report.push('This animal has exhibited symptoms of ear infection.');
+    }
+
+    if (this._data.reduce((acc, d) => acc + d.BPM, 0) / this._data.length > 80) {
+      report.push('This animal has an elevated heart rate.');
+    }
+
+    return report;
   }
 }

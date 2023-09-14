@@ -3,6 +3,7 @@ import { faHeart } from '@fortawesome/free-solid-svg-icons';
 import { ChartConfiguration, ChartOptions } from 'chart.js';
 import { AppService } from '../app.service';
 import { BaseChartDirective } from 'ng2-charts';
+import jsPDF from 'jspdf';
 
 @Component({
   selector: 'app-health',
@@ -70,5 +71,12 @@ export class HealthComponent implements OnInit {
 
   toggleBpmView(): void {
     this.liveBpm = !this.liveBpm;
+  }
+
+  generateHealthReport(): void {
+    const doc = new jsPDF();
+    const reportData = this.service.getReportData();
+    doc.text(`Health Report\n\n\n${reportData.join('\n')}`, 10, 10);
+    doc.save('health-report.pdf');
   }
 }
