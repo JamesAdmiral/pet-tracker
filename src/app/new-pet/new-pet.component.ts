@@ -1,6 +1,7 @@
 import { Component } from '@angular/core';
 import { FormControl } from '@angular/forms';
 import { AppService } from '../app.service';
+import { faChevronDown } from '@fortawesome/free-solid-svg-icons';
 
 @Component({
   selector: 'app-new-pet',
@@ -8,11 +9,16 @@ import { AppService } from '../app.service';
   styleUrls: ['./new-pet.component.sass']
 })
 export class NewPetComponent {
+  icons = {
+    selectArrow: faChevronDown
+  }
   fileUpload = new FormControl('');
   type = 'Dog';
   breed = '';
   imageSrc = '';
   loading = false;
+  selectedMonth = 'January';
+  showOptions = false;
 
   constructor(private service: AppService){}
 
@@ -27,4 +33,11 @@ export class NewPetComponent {
     })
   }
 
+  openShowOptions() {
+    this.showOptions = !this.showOptions
+  }
+
+  selectMonth(month: string): void {
+    this.selectedMonth = month;
+  }
 }

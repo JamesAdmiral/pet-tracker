@@ -1,8 +1,35 @@
-<h2>Add your pet's name and photograph below.</h2>
+<h2>Add your pet's name, birthday, and photograph below.</h2>
 
 
 <label for="name">Name</label>
 <input id="name" type="text">
+
+<label>Birthday</label>
+<div class="birthday-input">
+    <div>
+        <input type="text">
+    </div>
+    <div>
+        <div class="month" (click)="openShowOptions()">
+            {{ selectedMonth }}
+            <fa-icon class="fas" [icon]="icons.selectArrow"></fa-icon>
+            <div *ngIf="showOptions" class="options">
+                <div (click)="selectMonth('January')">January</div>
+                <div (click)="selectMonth('February')">February</div>
+                <div (click)="selectMonth('March')">March</div>
+                <div (click)="selectMonth('April')">April</div>
+                <div (click)="selectMonth('May')">May</div>
+                <div (click)="selectMonth('June')">June</div>
+                <div (click)="selectMonth('July')">July</div>
+                <div (click)="selectMonth('August')">August</div>
+                <div (click)="selectMonth('September')">September</div>
+                <div (click)="selectMonth('October')">October</div>
+                <div (click)="selectMonth('November')">November</div>
+                <div (click)="selectMonth('December')">December</div>
+            </div>
+        </div>
+    </div>
+</div>
 
 <ng-container *ngIf="!breed">
     <input id="photo" (change)="fileUploaded($event)" type="file" accept="image/*">

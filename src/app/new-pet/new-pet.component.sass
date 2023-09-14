@@ -1,11 +1,13 @@
 h2
     color: #fdfdfd
+    margin-top: 0
     margin-bottom: 32px
 
 label
     display: block
     color: #fdfdfd
     margin-bottom: 16px
+    font-size: 0.8rem
 
 input
     color: #fdfdfd
@@ -32,6 +34,7 @@ input[type="file"]
     border-radius: 8px
     text-align: center
     padding: 8px 18px
+    font-size: 1rem
 
 p
     color: #fdfdfd
@@ -71,3 +74,67 @@ p.label
 img
     max-width: 100%
     margin-bottom: 16px
+    border-radius: 8px
+
+.birthday-input
+    display: flex
+    
+    > div
+        flex: 1
+
+        input
+            text-align: center
+
+        select
+            width: 100%
+            background: #0c3a84
+            color: #fdfdfd
+            border: 0
+            font-family: 'Nunito', sans-serif
+            font-size: 1.1rem
+
+            optgroup
+                font-size: 0.8rem
+
+            &:focus
+                outline: none
+
+        &:first-child
+            padding-right: 16px
+
+        &:last-child
+            padding-left: 16px
+            padding-right: 16px
+
+            .month
+                color: #fdfdfd
+                width: 100%
+                display: flex
+                align-items: center
+                justify-content: space-between
+                position: relative
+
+                .fas
+                    margin-bottom: -2px
+
+.options
+    position: absolute
+    top: 102%
+    right: 0
+    color: #fdfdfd
+    height: 300px
+    width: 240px
+    display: flex
+    flex-wrap: wrap
+    background: #0c3a84
+    box-shadow: 0 2px 6px rgba(0,0,0,0.12)
+    border-radius: 8px
+
+    div
+        width: 50%
+        display: flex
+        align-items: center
+        justify-content: center
+
+        &:hover
+            filter: darken(#0c3a84, 10%)
